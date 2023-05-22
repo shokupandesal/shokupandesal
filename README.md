@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shokupandesal
-- 👀 I’m interested in music, languages, mathematics and video games
-- 🌱 I’m currently learning python and sql fro data analytics
-- 🌱 I'm also learning 2D game development with Unity if I have some free time
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in music, languages, books and video games
+- 🌱 I’m currently learning python and sql for data analytics
+- 🌱 I'm also learning 2D game development with Unity if I have free time
 - 📫 You can reach me via Twitter: _@45degEnjel_ or Discord: _enjel#3682_
 
 <!---
